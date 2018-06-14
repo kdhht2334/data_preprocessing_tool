@@ -6,6 +6,7 @@ import subprocess
 import os
 
 import argparse
+
 app = argparse.ArgumentParser()
 app.add_argument("-n", "--class", type=str, default="box1",
                  help="Which categories want to select among 10 classes.")
