@@ -1,7 +1,7 @@
 # data_preprocessing_tool
 
 - Usage
-```python
+```
 python annotation.py --class example --start_no 10 --end_no 25
 ```
 
