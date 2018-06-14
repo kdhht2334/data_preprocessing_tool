@@ -1,6 +1,9 @@
 # data_preprocessing_tool
 
-- My data_preprocessing tool
+- Usage
+```python
+python annotation.py --class example --start_no 10 --end_no 25
+```
 
 - Milestone
 * [x] Add rename process
