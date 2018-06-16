@@ -1,6 +1,6 @@
 # data_preprocessing_tool
 
-####- Usage
+## Usage
 ```
 git clone https://github.com/kdhht2334/data_preprocessing_tool
 cd data_preprocessing_tool
@@ -11,6 +11,6 @@ python annotation.py --directory <directory> --start_no <start_no> --end_no <end
 * __end_no__ = __start_no__ + (number of all pictures in directory) - 1
 
 
-####- Milestone
+## Milestone
 * [x] Add rename process
 * [x] Add format convert process
