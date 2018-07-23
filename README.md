@@ -13,4 +13,6 @@ python annotation.py --directory <directory> --start_no <start_no> --end_no <end
 
 ## Milestone
 * [x] Add rename process
+* [x] Add naming process
 * [x] Add format convert process
+* [ ] Add complete bash file
